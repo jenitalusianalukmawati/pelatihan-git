@@ -1,0 +1,5 @@
+ini adalah file text.txt
+
+ini ada di branch master
+
+ini dibuat dibranch development
